@@ -166,7 +166,7 @@
 					<input id="myInput" type="file" name="file" multiple="multiple"
 						size="50" /> <br /> <br /> <input class="button2" type="submit"
 						value="Calculate" />
-						<a href="#" onclick="HTMLtoPDF()">Download PDF</a>
+						<button  class="button3" href="#" onclick="HTMLtoPDF()">Download PDF</button>
 					</hr>
 					</form>
 					<%!public static List<Integer> defaultWeight = Arrays.asList(2, 2, 3, 3, 4, 4, 5, 3, 4, 1, 2, 1, 2);%>

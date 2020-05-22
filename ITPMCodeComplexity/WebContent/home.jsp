@@ -44,7 +44,7 @@
 						<li><a href="SVM.jsp">Size</a></li>
 						<li><a href="SVM.jsp">Variables</a></li>
 						<li><a href="SVM.jsp">Methods</a></li>
-						<li><a href="inheritance.jsp">Inheritances</a></li>
+						<li><a href="upinherit.jsp">Inheritances</a></li>
 						<li><a href="coupling.jsp">Coupling</a></li>
 						<li><a href="control.jsp">Control Structures</a></li>
 						<li><a href="total.jsp">Total Complexity</a></li>
